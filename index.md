@@ -18,18 +18,15 @@ My research focuses on the design and analysis of novel first-order methods for 
 - **Real-life applications:** healthcare, 4inancial industry, and E-commerce 
 
 
-{% include_relative _includes/publications.md %}
 
 ## Talks and Presentations
 
 - **International Symposium on Mathematical Programming (ISMP 2024)**, Montreal, Canada, Jul 2024 
-
-  	- Session: Advances in Stochastic First-Order Methods - 
-
-  	- Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization 
-
+  - Session: Advances in Stochastic First-Order Methods 
+  
+  - Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization
+  
 - **INFORMS Optimization Society Conference**, Houston, TX, Mar 2024 
-
   - Session: Advances in Continuous Optimization Algorithms
   - Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization 
 
@@ -58,5 +55,8 @@ My research focuses on the design and analysis of novel first-order methods for 
 - **INFORMS Annual Meeting**, Online, Oct 2021 
   - Session: Stochastic Optimization in Machine Learning 
   - Title: Simple and Optimal Methods for Stochastic Variational Inequalities 
+  
+
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
